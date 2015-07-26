@@ -21,6 +21,10 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/Hemphill/styleable-lists",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Hemphill/styleable-lists"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
