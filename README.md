@@ -15,6 +15,8 @@ li:before {
 ```
 ### Installation
 
+You can either download styleable-lists from github or use bower to install it.
+
 #### Using Bower
 
 First, install the bower package with the following command.
@@ -25,8 +27,18 @@ bower install styleable-lists --save
 
 Next, include the CSS or SCSS file in your project.
 
-If you wish to use the complete package use the `stylable-lists-all.css` file. This includes the stylable-lists base styles plus additional styling classes.
-
 ```html
-<link href="/bower_components/stylable-lists/stylable-lists-all.css">
+<link href="/bower_components/stylable-lists/stylable-lists.css">
 ```
+
+OR
+
+```css
+@import /bower_components/stylable-lists/stylable-lists.scss
+```
+
+#### Download
+
+First, visit the [project on github](https://github.com/Hemphill/styleable-lists) then use the Download Zip button on the right.
+
+Then you can include the stylable-lists.css or stylable-lists.scss file on you website.
