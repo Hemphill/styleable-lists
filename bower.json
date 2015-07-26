@@ -1,0 +1,31 @@
+{
+  "name": "styleable-lists",
+  "version": "1.0.0",
+  "authors": [
+    "Greg Hemphill <greg@webstop.com>"
+  ],
+  "description": "Easily style HTML list bullets and ordered lsit numbers without affecting the body text.",
+  "main": "styleable-lists.css",
+  "keywords": [
+    "list",
+    "li",
+    "ul",
+    "ol",
+    "html",
+    "css",
+    "lists",
+    "bullets",
+    "ordered",
+    "unordered",
+    "numbers"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Hemphill/styleable-lists",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
