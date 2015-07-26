@@ -1,12 +1,12 @@
 # CSS Styleable Lists
 
-Easy CSS styling for `ul` bullets and `ol` numbers.
+Easy CSS styling for unordered list (`ul`) bullets and ordered list (`ol`) numbers.
 
 #### Have you ever wanted to color the bullets or numbers of an HTML list independently from the body text?  
 
-Unfortunately, the CSS is not as straight forward as you'd expect.
+Unfortunately, in CSS it's not as straight forward as you'd expect.
 
-The CSS library styleable-lists makes it easy to style HTML list bullets and numbers without affecting the body text. Simply place your styles on the `li:before` selector and vola custom bullets. Observe the following example where we choose to style our ul bullets &amp; ol numbers red.
+The CSS library styleable-lists makes it easy to style HTML list bullets and numbers without affecting the body text. Simply place your styles on the `li:before` selector and vola custom bullets. Observe the following example where we choose to style our `ul li` bullets &amp; `ol li` numbers red.
 
 ```css
 li:before {
